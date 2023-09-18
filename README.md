@@ -7,3 +7,5 @@ Instrutores:
 * Mateus Felismino ([@mffdsp](https://github.com/mffdsp))
 
 ## [Base de dados](https://github.com/hglps/Minicurso-Introducao-Data-Science/blob/main/data.csv) para a atividade.
+
+## [Apresentação em PDF do curso]() (Link a ser adicionado)
