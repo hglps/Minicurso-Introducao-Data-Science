@@ -8,4 +8,4 @@ Instrutores:
 
 ## [Base de dados](https://github.com/hglps/Minicurso-Introducao-Data-Science/blob/main/data.csv) para a atividade.
 
-## [Apresentação em PDF do curso]() (Link a ser adicionado)
+## [Apresentação em PDF do curso](./Introdução%20a%20Data%20Science%20Katie%20e%20Secomp.pdf) (Link a ser adicionado)
